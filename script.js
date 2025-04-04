@@ -1,5 +1,5 @@
 const images = [
-    { src: "https://placekitten.com/400/300", text: "Ich liebe dich mehr als alles andere! ❤️" },
+    { src: "https://i.pinimg.com/236x/36/6f/8f/366f8f20b0af87e06c19ae61fe52df90.jpg", text: "Ich liebe dich mehr als alles andere! ❤️" },
     { src: "https://placekitten.com/401/300", text: "Du bist meine Sonne in meinem Leben! ☀️" },
     { src: "https://placekitten.com/402/300", text: "Mit dir fühlt sich jeder Moment magisch an! ✨" },
     { src: "https://placekitten.com/403/300", text: "Mein Herz gehört nur dir! 💕" },
